@@ -89,24 +89,6 @@ src/
 
 ---
 
-# ⚙️ Environment Variables Setup
-
-Create a `.env` file in the root directory of the project.
-
-Add the following variable:
-
-```env
-VITE_API_BASE_URL=YOUR_MOCKAPI_BASE_URL
-```
-
-Example:
-
-```env
-VITE_API_BASE_URL=https://example.mockapi.io/api/v1
-```
-
----
-
 # 📥 Step-by-Step Installation Guide
 
 ## 1️⃣ Clone the Repository
